@@ -1,24 +1,24 @@
 const data = [
     {
-        image: '/img/9.jpeg'
+        image: '9.jpeg'
     },
     {
-        image: '/img/1.jpeg'
+        image: '1.jpeg'
     },
     {
-        image: '/img/6.jpeg'
+        image: '6.jpeg'
     },
     {
-        image: '/img/3.jpeg'
+        image: '3.jpeg'
     },
     {
-        image: '/img/d1.jpeg'
+        image: 'd1.jpeg'
     },
     {
-        image: '/img/d9.jpeg'
+        image: 'd9.jpeg'
     },
     {
-        image: '/img/d7.jpeg'
+        image: 'd7.jpeg'
     }
 ];
 
